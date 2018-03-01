@@ -1,10 +1,11 @@
 # calculator
-
-FIXME: description
+Simple example of adding, subtracting and multiplying implementation.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+### Should be enough with leiningen
+https://leiningen.org/#install
+
 
 ## Usage
 
@@ -14,24 +15,15 @@ FIXME: explanation
 
 ## Options
 
-FIXME: listing of options this app accepts.
+path to file
 
 ## Examples
 
-...
+### then to run app
+$ run lein run
+
+### and for tests tests
+$ lein do test
 
 ### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
-TDD-kata for calculator task
+Integer overflow and file error handling not implemented
