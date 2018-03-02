@@ -4,6 +4,7 @@
 pom.xml
 pom.xml.asc
 *.jar
+!/build/calculator_axel_skyttner.jar
 *.class
 /.lein-*
 /.nrepl-port
