@@ -11,7 +11,7 @@ https://leiningen.org/#install
 
 FIXME: explanation
 
-    $ java -jar calculator-0.1.0-standalone.jar [args]
+    $ java -jar build/calculator_axel_skyttner.jar [args]
 
 ## Options
 
